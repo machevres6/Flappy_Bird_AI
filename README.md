@@ -28,9 +28,7 @@ For the NN we are going to use:
 * Max Generations: 
     * 30
     * If the program does not work after 30 itterations then lets change the hyperparameters and try again. 
-    
-    
-THIS THING WORKED MOFOSSSSS!!!!!! 
+     
 I changed a couple of the hyperparameters such as: 
 
 * pop_size = 15
